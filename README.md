@@ -1,1 +1,1 @@
-# docker-compose-portainer
+# docker-compose: portainer
